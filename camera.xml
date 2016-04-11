@@ -5,7 +5,7 @@
 
     <SurfaceView
         android:layout_width="640dp"
-        android:layout_height="355dp"
+        android:layout_height="370dp"
         android:id="@+id/camera_view"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
